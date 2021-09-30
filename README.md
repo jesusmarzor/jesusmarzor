@@ -1,7 +1,12 @@
-### Bienvenidos a mi Github 😄
-Subiré mis proyectos sobre desarrollo web! 📚💻 \
-Espero que os gusten ❤️❤️
-
+### Bienvenidos!! :wave:
+Me llamo Jesús Martín y aquí subiré mis proyectos sobre desarrollo web! 📚💻\
+Espero que os gusten :stuck_out_tongue_closed_eyes:
+### Donde encontrarme
+  - [Portfolio](https://jesusmarzor.com)
+  - [Linkedin](https://linkedin.com/in/jesusmarzor)
+  - [Instagram](www.instagram.com/jesusmarzor)
+### Estadisticas
+- - -
 ![estadisticas](https://github-readme-stats.vercel.app/api?username=jesusmarzor&show_icons=true)
 ![lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusmarzor&layout=compact)
 <!--
