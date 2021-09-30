@@ -1,8 +1,8 @@
-<!--### Bienvenidos a mi Github 😄
+### Bienvenidos a mi Github 😄
 Subiré mis proyectos sobre desarrollo web! 📚💻 \
-Espero que os gusten ❤️❤️-->
+Espero que os gusten ❤️❤️
 ![estadisticas](https://github-readme-stats.vercel.app/api?username=jesusmarzor&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusmarzor&layout=compact)
+![lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusmarzor&layout=compact){ width=20px }
 <!--
 **jesusmarzor/jesusmarzor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
