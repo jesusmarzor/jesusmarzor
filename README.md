@@ -1,4 +1,4 @@
-## console.log("Bienvenidos!! 👋")
+# console.log("Bienvenidos!! 👋")
 Me llamo Jesús Martín y aquí subiré mis proyectos sobre desarrollo web! 📚💻\
 Espero que os gusten 🤐
 ## Donde encontrarme 🌍
@@ -6,7 +6,6 @@ Espero que os gusten 🤐
   - [Linkedin](https://linkedin.com/in/jesusmarzor)
   - [Instagram](www.instagram.com/jesusmarzor)
 ## Estadisticas
-- - -
 ![estadisticas](https://github-readme-stats.vercel.app/api?username=jesusmarzor&show_icons=true)
 ![lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusmarzor&layout=compact)
 <!--
