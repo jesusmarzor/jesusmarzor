@@ -2,7 +2,7 @@
 Subiré mis proyectos sobre desarrollo web! 📚💻 \
 Espero que os gusten ❤️❤️
 ![estadisticas](https://github-readme-stats.vercel.app/api?username=jesusmarzor&show_icons=true)
-![lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusmarzor&layout=compact){height=400px width=500px}
+![lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusmarzor&layout=compact)
 <!--
 **jesusmarzor/jesusmarzor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
