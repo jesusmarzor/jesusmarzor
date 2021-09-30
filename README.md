@@ -4,7 +4,7 @@ Espero que os gusten 🤐
 ## Donde encontrarme 🌍
   - [Portfolio](https://jesusmarzor.com)
   - [Linkedin](https://linkedin.com/in/jesusmarzor)
-  - [Instagram](www.instagram.com/jesusmarzor)
+  - [Instagram](https://instagram.com/jesusmarzor)
 ## Estadisticas
 ![estadisticas](https://github-readme-stats.vercel.app/api?username=jesusmarzor&show_icons=true)
 ![lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusmarzor&layout=compact)
