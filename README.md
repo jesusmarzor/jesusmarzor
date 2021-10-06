@@ -2,7 +2,7 @@
 Me llamo Jesús Martín y aquí subiré mis proyectos sobre desarrollo web! 📚💻\
 Espero que os gusten 🤐
 ## Donde encontrarme 🌍
-  - [Portfolio](https://jesusmarzor.com)
+  - [Portafolio](https://jesusmarzor.com)
   - [Linkedin](https://linkedin.com/in/jesusmarzor)
   - [Instagram](https://instagram.com/jesusmarzor)
 ## Estadisticas
